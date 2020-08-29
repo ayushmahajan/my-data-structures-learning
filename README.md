@@ -10,6 +10,6 @@ This repo doesn't have solutions to interview problems.
 3. Doubly Linked Lists
 4. [Stacks](https://github.com/ayushmahajan/my-data-structures-learning/tree/master/Stacks)
 5. Queues
-6. Trees
+6. [Trees](https://github.com/ayushmahajan/my-data-structures-learning/tree/master/Trees)
 7. Binary Search Trees
 8. Graphs
