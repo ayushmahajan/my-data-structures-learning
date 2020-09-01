@@ -6,7 +6,7 @@ This repo doesn't have solutions to interview problems.
 
 ## List of items:
 1. Dynamic Arrays
-2. [Singly Linked Lists](https://github.com/ayushmahajan/my-data-structures-learning/blob/master/Singly-Linked-Lists/sll.py)
+2. [Singly Linked Lists](https://github.com/ayushmahajan/my-data-structures-learning/tree/master/Singly-Linked-Lists)
 3. Doubly Linked Lists
 4. [Stacks](https://github.com/ayushmahajan/my-data-structures-learning/tree/master/Stacks)
 5. Queues
