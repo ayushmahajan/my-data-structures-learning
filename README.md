@@ -12,4 +12,4 @@ This repo doesn't have solutions to interview problems.
 5. Queues
 6. [Trees](https://github.com/ayushmahajan/my-data-structures-learning/tree/master/Trees)
 7. Binary Search Trees
-8. Graphs
+8. [Graphs](https://github.com/ayushmahajan/my-data-structures-learning/tree/master/Graphs)
