@@ -1,5 +1,5 @@
 """
-Graph representation using adjacency list
+Undirected Graph representation using adjacency list
 Adjacency list will be represented as a dictionary having vertices as key and
 a list of adjacent vertices as value.
 """
@@ -20,8 +20,9 @@ class Graph:
             print(vertex, "->", self._adj_list[vertex])
 
     def insert_edge(self, start_vertex, end_vertex):
-        self._adj_list[start_vertex].append(end_vertex)
-        self._adj_list[end_vertex].append(start_vertex)
+        if start_vertex != end_vertex:
+            self._adj_list[start_vertex].append(end_vertex)
+            self._adj_list[end_vertex].append(start_vertex)
 
     def find_adjacent_nodes(self, vertex):
         return self._adj_list[vertex]
